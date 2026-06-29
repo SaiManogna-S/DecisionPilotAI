@@ -247,7 +247,6 @@ These files can be directly uploaded into DecisionPilot AI for testing.
 - 🗂 CRM Record (.json/.txt)
 - 📧 Customer Email (.txt)
 
->>>>>>> 6d64524 (Add architecture diagram and sample data)
 ---
 
 # 🎯 Business Use Case
