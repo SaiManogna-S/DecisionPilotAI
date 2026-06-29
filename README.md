@@ -144,10 +144,9 @@ DecisionPilot AI follows a Planner-Agent based architecture.
 
 ---
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 
 ![System Architecture](assets/Architecture.png)
-
 ---
 
 # 📂 Project Structure
