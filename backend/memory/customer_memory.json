@@ -1,0 +1,14 @@
+{
+    "health_score": 95,
+    "sentiment": "Positive",
+    "renewal_days": 90,
+    "summary": "The customer is extremely happy with the platform, experiencing excellent API reliability and support. They plan to expand by 300 users next quarter and intend to renew their contract.",
+    "problems": [],
+    "opportunities": [
+        "Expansion opportunity for 300 additional users"
+    ],
+    "action_items": [
+        "Prepare expansion proposal",
+        "Schedule onboarding for new users"
+    ]
+}
