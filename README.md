@@ -236,14 +236,20 @@ http://localhost:3000
 
 ---
 
-# 📁 Sample Inputs
+# 📂 Sample Inputs
 
-The project supports the following input files:
+The repository contains sample input files inside the `sample_data/` folder.
 
-- 📄 Meeting Transcript (.pdf/.txt)
-- 🗂 CRM Record (.json/.txt)
-- 📧 Customer Email (.txt)
+| File | Description |
+|------|-------------|
+| Positive_Customer_Transcript.pdf | Happy customer with expansion opportunity |
+| Negative_Customer_Transcript.pdf | Customer showing churn risk |
+| Positive_CRM_Record.json | Healthy customer CRM data |
+| Negative_CRM_Record.json | At-risk customer CRM data |
+| positive_email.txt | Positive follow-up email |
+| negative_email.txt | Complaint email from customer |
 
+These files can be directly uploaded into DecisionPilot AI for testing.
 ---
 
 # 🎯 Business Use Case
