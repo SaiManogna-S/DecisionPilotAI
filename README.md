@@ -246,26 +246,6 @@ The project supports the following input files:
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-## Recommendations
-
-![Recommendations](screenshots/recommendations.png)
-
----
-
-## Analytics
-
-![Analytics](screenshots/analytics.png)
-
----
-
 # 🎯 Business Use Case
 
 DecisionPilot AI assists Customer Success Managers in making informed business decisions by:
@@ -278,29 +258,6 @@ DecisionPilot AI assists Customer Success Managers in making informed business d
 - Supporting Human-in-the-Loop decision making
 
 ---
-
-# 🚀 Future Enhancements
-
-- Live Salesforce Integration
-- HubSpot CRM Integration
-- Microsoft Teams Integration
-- Zoom Meeting Integration
-- Voice Meeting Analysis
-- Continuous Customer Monitoring
-- Predictive Churn Forecasting
-- Executive Analytics Dashboard
-- Multi-language Support
-
----
-
-# 👨‍💻 Team
-
-- Member 1
-- Member 2
-- Member 3
-
----
-
 # 📜 License
 
 This project was developed as part of the **XLVentures.AI Agentic AI Hackathon 2026**.
