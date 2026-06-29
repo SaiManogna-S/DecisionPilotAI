@@ -177,8 +177,6 @@ DecisionPilotAI
 │
 ├── sample_data
 │
-├── screenshots
-│
 ├── README.md
 │
 └── architecture.png
@@ -187,12 +185,6 @@ DecisionPilotAI
 ---
 
 # ⚙️ Installation & Setup
-
-## Clone Repository
-
-```bash
-git clone https://github.com/<your-username>/DecisionPilotAI.git
-```
 
 ---
 
