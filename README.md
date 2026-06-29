@@ -255,9 +255,3 @@ DecisionPilot AI assists Customer Success Managers in making informed business d
 - Providing explainable AI insights
 - Supporting Human-in-the-Loop decision making
 
----
-# 📜 License
-
-This project was developed as part of the **XLVentures.AI Agentic AI Hackathon 2026**.
-
-For academic and demonstration purposes only.
