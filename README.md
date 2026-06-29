@@ -232,6 +232,7 @@ http://localhost:3000
 
 The repository contains sample input files inside the `sample_data/` folder.
 
+<<<<<<< HEAD
 | File | Description |
 |------|-------------|
 | Positive_Customer_Transcript.pdf | Happy customer with expansion opportunity |
@@ -242,6 +243,12 @@ The repository contains sample input files inside the `sample_data/` folder.
 | negative_email.txt | Complaint email from customer |
 
 These files can be directly uploaded into DecisionPilot AI for testing.
+=======
+- 📄 Meeting Transcript (.pdf/.txt)
+- 🗂 CRM Record (.json/.txt)
+- 📧 Customer Email (.txt)
+
+>>>>>>> 6d64524 (Add architecture diagram and sample data)
 ---
 
 # 🎯 Business Use Case
@@ -255,3 +262,12 @@ DecisionPilot AI assists Customer Success Managers in making informed business d
 - Providing explainable AI insights
 - Supporting Human-in-the-Loop decision making
 
+<<<<<<< HEAD
+=======
+---
+# 📜 License
+
+This project was developed as part of the **XLVentures.AI Agentic AI Hackathon 2026**.
+
+For academic and demonstration purposes only.
+>>>>>>> 6d64524 (Add architecture diagram and sample data)

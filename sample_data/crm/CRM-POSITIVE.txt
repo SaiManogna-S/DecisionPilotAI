@@ -1,0 +1,42 @@
+﻿{
+  "customer": {
+    "company": "Acme Technologies",
+    "customer_id": "CUST-10021",
+    "account_type": "Enterprise",
+    "industry": "Software",
+    "employees": 850
+  },
+  "subscription": {
+    "plan": "Enterprise Plus",
+    "renewal_date": "2026-09-30",
+    "renewal_days": 90,
+    "contract_value": 125000
+  },
+  "customer_health": {
+    "health_score": 92,
+    "status": "Healthy",
+    "last_updated": "2026-06-28"
+  },
+  "support": {
+    "open_tickets": 1,
+    "critical_tickets": 0,
+    "average_resolution_time": "3 hours"
+  },
+  "usage": {
+    "active_users": 720,
+    "licensed_users": 800,
+    "api_calls_last_month": 5600000,
+    "feature_adoption": "High"
+  },
+  "sales": {
+    "account_manager": "Rahul Sharma",
+    "expansion_opportunity": true,
+    "expected_new_users": 300,
+    "upsell_probability": "High"
+  },
+  "notes": [
+    "Customer is satisfied with platform performance.",
+    "Expansion discussion planned for next quarter.",
+    "Executive sponsor meeting scheduled next month."
+  ]
+}
